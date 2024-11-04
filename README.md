@@ -1,3 +1,3 @@
 # portfoliowebsite
 
-link : https://trinachuamin.github.io/portfoliowebsite/
+link : https://trinachuamin.github.io/Trina-portfolio/
